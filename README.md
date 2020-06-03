@@ -48,7 +48,7 @@ It’s time we as NUtons, put our minds to work
 ## 💡 Idea / Solution <a name = "idea"></a>
 A Social Distancing Alert System. This System uses existing IP cameras and CCTV cameras to detect if people are at a specific distance and adhere to social distancing or not. This system hence aims to enhances crowd control and monitoring for commercial enterprises in the interest of public health safety. This is aimed as a customer-enterprise duo application where both parties can ensure their safety in the coronavirus pandemic of 2020. A computer vision based model detects on the basis of certain classifiers and the unique weights allocated to the parameters. This automates the entire process of evaluating quantitative data from a CCTV video feed with considerable accuracy.
 
-For Customer's point of view our Application entails the user to know the safety index at store, People present and store and gives the functionality to book a visit. The visit timing slots are limited so as to promote social distancing. Users can decide on their optimum time to go to the store to avoid larger crowds at peak.
+From a customer's point of view our Application entails the user to know the safety index at store, People present in the store and gives the functionality to book a visit. The visit timing slots are limited so as to promote social distancing. Users can decide on their optimum time to go to the store to avoid larger crowds at peak.
 
 Facing the collapse of normal activities, it becomes critical for store owners to monitor clientele in the interest of public health safety.
 
